@@ -1,11 +1,9 @@
 # Real-Time Weapons Detections with YOLO and Faster R-CNN
 Final project for the course "Machine Learning and Artificial Intelligence" @Politecnico di Torino. 
 
-*Main algorithms and techniques:* Faster R-CNN, ResNet-50-FPN, YOLO, Transfer Learning, Data Augmentation.
-<br>
-*Evaluation metrics:* Accuracy, Precision, Recall, F1-score, IoU, mAP, mAR.
-<br>
-*Programming language and main libraries:* Python, Pytorch, OpenCV.
+* *Main algorithms and techniques:* Faster R-CNN, ResNet-50-FPN, YOLO, Transfer Learning, Data Augmentation.
+* *Evaluation metrics:* Accuracy, Precision, Recall, F1-score, IoU, mAP, mAR.
+* *Programming language and main libraries:* Python, Pytorch, OpenCV.
 
 ### Abstract
 
